@@ -28,6 +28,10 @@ This project uses Arduino Nano, a DHT11 sensor, and a
 
 Install them via the Arduino Library Manager.
 
+## Code
+
+👉 [**Code_temp_hum.ino**](Code_temp_hum.ino) — the main program code of the project.
+
 ## ⏱ Refresh Rate:
 Data updates every 2 seconds.
 
